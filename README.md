@@ -2,37 +2,83 @@
 
 This project focuses on predicting the demand for Electric Vehicles (EVs) using machine learning and data analysis techniques. It covers Exploratory Data Analysis (EDA), model training, evaluation, and visualizations.
 
+
+🧠 Project Overview
+
+Problem Statement:
+
+The increasing adoption of electric vehicles requires predictive analysis for demand planning and charging infrastructure development.
+
+Approach:
+
+Utilized Exploratory Data Analysis (EDA), feature engineering, and ML algorithms to derive insights and make predictions on EV demand trends.
+
+
 🚀 Key Features
 
-Cleaned and analyzed EV dataset
+1. Cleaned and analyzed EV dataset
 
-Exploratory Data Analysis (EDA) with charts & insights
+2. Exploratory Data Analysis (EDA) with charts & insights
 
-Machine Learning models to predict EV demand
+3. Machine Learning models to predict EV demand
 
-Performance evaluation (accuracy, MSE, RMSE)
+4. Performance evaluation (accuracy, MSE, RMSE)
 
-Easy-to-understand visualizations
+5. Easy-to-understand visualizations
 
-Ready to deploy on Streamlit (optional)
+6. Ready to deploy on Streamlit (optional)
 
 
 🧠 Tech Stack
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+1. Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Machine Learning (Scikit-learn)
+2. Machine Learning (Scikit-learn)
 
-Jupyter Notebook for analysis
+3. Jupyter Notebook for analysis
 
-Streamlit (optional) for app interface
+4. Streamlit (optional) for app interface
 
 
 📊 Sample Output
 
-EV registration trends over time
+1. EV registration trends over time
 
-Region-wise demand analysis
+2. Region-wise demand analysis
 
-Model accuracy & prediction charts
+3. Model accuracy & prediction charts
+
+
+🚀 How to Run the Project
+
+# Clone the repository
+git clone https://github.com/Manish-kumar44/EV_Vehicle_demand_prediction
+
+# Navigate to the folder
+cd EV_Vehicle_demand_prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+📈 Results
+
+Achieved high prediction accuracy on demand trends.
+
+Identified top potential zones for EV infrastructure expansion.
+
+Visual dashboards for insights and stakeholder decision-making.
+
+
+📌 Future Scope
+
+Integrate real-time traffic and weather data
+
+Expand prediction to rural regions
+
+Include battery lifecycle and grid load forecasting
+
+
+
+
 
