@@ -52,12 +52,15 @@ Utilized Exploratory Data Analysis (EDA), feature engineering, and ML algorithms
 🚀 How to Run the Project
 
 #Clone the repository 
+
 git clone https://github.com/Manish-kumar44/EV_Vehicle_demand_prediction
 
 #Navigate to the folder
+
 cd EV_Vehicle_demand_prediction
 
 #Install dependencies
+
 pip install -r requirements.txt
 
 
