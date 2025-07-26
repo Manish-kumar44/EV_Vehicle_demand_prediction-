@@ -51,32 +51,34 @@ Utilized Exploratory Data Analysis (EDA), feature engineering, and ML algorithms
 
 🚀 How to Run the Project
 
-# Clone the repository
+#Clone the repository 
 git clone https://github.com/Manish-kumar44/EV_Vehicle_demand_prediction
 
-# Navigate to the folder
+#Navigate to the folder
 cd EV_Vehicle_demand_prediction
 
-# Install dependencies
+#Install dependencies
 pip install -r requirements.txt
+
 
 
 📈 Results
 
-Achieved high prediction accuracy on demand trends.
+1. Achieved high prediction accuracy on demand trends.
 
-Identified top potential zones for EV infrastructure expansion.
+2. Identified top potential zones for EV infrastructure expansion.
 
-Visual dashboards for insights and stakeholder decision-making.
+3. Visual dashboards for insights and stakeholder decision-making.
+
 
 
 📌 Future Scope
 
-Integrate real-time traffic and weather data
+1. Integrate real-time traffic and weather data
 
-Expand prediction to rural regions
+2. Expand prediction to rural regions
 
-Include battery lifecycle and grid load forecasting
+3. Include battery lifecycle and grid load forecasting
 
 
 
