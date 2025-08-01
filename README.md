@@ -26,7 +26,7 @@ Utilized Exploratory Data Analysis (EDA), feature engineering, and ML algorithms
 
 5. Easy-to-understand visualizations
 
-6. Ready to deploy on Streamlit (optional)
+6. Ready to deploy on Streamlit 
 
 
 🧠 Tech Stack
@@ -37,7 +37,7 @@ Utilized Exploratory Data Analysis (EDA), feature engineering, and ML algorithms
 
 3. Jupyter Notebook for analysis
 
-4. Streamlit (optional) for app interface
+4. Streamlit for app interface
 
 
 📊 Sample Output
